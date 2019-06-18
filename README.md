@@ -25,4 +25,4 @@ b) Changes: Put ChangeList.csv and ChangeLog.csv to change folder
 c) FMECA: Put Priority1.csv and Priority2.csv to priority folder 
 d) Unit Lists: Put CustomList.csv to units folder
 
-2) Open the project in Eclipse (Photon) and run then select the issues needs to be updated in the interface. Then press "Generete Report" button to generate the update report. The updated SysML models will be in res folder. The report will be in report folder.
+2) Open the project in Eclipse (Photon) and run ModelModifier.java then select the issues needs to be updated in the interface. Then press "Generete Report" button to generate the update report. The updated SysML models will be in res folder. The report will be in report folder.
