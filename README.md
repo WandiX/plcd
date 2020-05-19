@@ -36,4 +36,9 @@ iii) FMECA: Put Priority1.csv and Priority2.csv to priority folder
 
 iiii) Unit Lists: Put CustomList.csv to units folder
 
-b) Open the project in Eclipse (Photon) and run ModelModifier.java then select the issues needs to be updated in the interface. Then press "Generete Report" button to generate the update report. The updated SysML models will be in res folder. The report will be in report folder.
+b) Open the project in Eclipse (Photon) and run ModelModifier.java then press "Generete Report" button and select "Identifaction" to generate the identification report. After selecting the issues needs to be updated in the interface, pressing "Generete Report" button and selecting "Update" can generate the update report. The updated SysML models will be in res folder. The reports will be in report folder.
+
+5. Example
+
+The uploaded code has Isolette example files in the corresponding files. 
+
