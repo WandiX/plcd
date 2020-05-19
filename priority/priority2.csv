@@ -1,0 +1,6 @@
+﻿Id,Data Item,Component,Description,Criticality
+1,ct,EA_TS_3,,Catastrophic
+2,ct_a,EA_TS_2,,Catastrophic
+3,lat,EA_OI_3,,Critical
+4,ts.The Current Temperature,Temperature Sensor,,Catastrophic
+5,oi.Lower Alarm Temperature,Operator Interface,,Critical

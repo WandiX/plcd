@@ -1,0 +1,8 @@
+Quantity1,Quantity2,Name,Unit
+length,,meter,m
+mass,,kilogram,kg
+time ,duration,second,s
+electric current,,ampere,A
+thermodynamic temperature,,kelvin,K
+amount of substance,,mole,mol
+luminous intensity,,candela,cd
